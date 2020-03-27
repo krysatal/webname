@@ -4,7 +4,6 @@ import {Button, DatePicker, version} from 'antd'
 import 'antd/dist/antd.css'
 import './App.css'
 import axios from 'axios'
-// import setupProxy from './setupProxy'
 class App extends Component{
     componentDidMount() {
         axios.get('/api/mock/5e7c707aa123277163210e09/example/query').then((res) => {
