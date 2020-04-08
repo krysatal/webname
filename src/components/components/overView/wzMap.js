@@ -31,8 +31,8 @@ class wzMap extends Component{
             </div>
         )
     }
-    renderUrl () {
-        console.log(this.props)
+    renderUrl (url) {
+        this.props.history.push(url)
     }
 }
 export default wzMap

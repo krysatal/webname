@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
-import Header from '../../common/header/header'
-import Sider from '../../common/sider/sider'
-import Footer from '../../common/footer/footer'
+import Header from '../../../common/header/header'
+import Sider from '../../../common/sider/sider'
+import Footer from '../../../common/footer/footer'
 import {Layout} from "antd";
 const { Content } = Layout;
 
@@ -15,7 +15,7 @@ class businessList extends Component{
                 <Layout>
                     <Header></Header>
                     <Layout>
-                        <Sider></Sider>
+                        <Sider renderUrl={this.renderUrl.bind(this)}></Sider>
                         <Layout>
                             <Content className="site-layout-background"
                                      style={{padding: 24, margin: 0, minHeight: 280}}>
@@ -28,8 +28,9 @@ class businessList extends Component{
             </div>
         )
     }
-    renderUrl () {
+    renderUrl (url) {
         console.log(this.props)
+        this.props.history.push(url)
     }
 }
 export default  businessList

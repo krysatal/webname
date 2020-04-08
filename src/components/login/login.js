@@ -13,7 +13,6 @@ class login extends Component{
         this.state = {
             history: this.props.history
         }
-        console.log(111)
     }
     render() {
         return (

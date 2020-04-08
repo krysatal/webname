@@ -9,27 +9,34 @@ const { Sider, Content } = Layout;
 class sider extends Component{
     constructor (props) {
         super(props)
-        this.renderItem = this.renderItem.bind(this)
+        this.openSubMenu = this.openSubMenu.bind(this)
     }
     render() {
         return (
             <div>
                 <Sider width={200} className="site-layout-background">
                     <Menu mode="inline"
-                          defaultSelectedKeys={['1']}
-                          defaultOpenKeys={['sub1']}
                           style={{ height: '100%', borderRight: 0 }}>
                         <SubMenu key="sub1"
-                                 onTitleClick={this.renderItem('/index/overView')}
+                                 onTitleClick={this.openSubMenu}
                                  title={<span><UserOutlined></UserOutlined>概览</span>}>
+                        </SubMenu>
+                        <SubMenu key="sub2"
+                                 onTitleClick={this.openSubMenu}
+                                 title={<span><LaptopOutlined></LaptopOutlined>企业管理</span>}>
                         </SubMenu>
                     </Menu>
                 </Sider>
             </div>
         )
     }
-    renderItem (url) {
-        this.props.renderUrl(url)
+    openSubMenu (openKeys) {
+        console.log(openKeys)
+        if (openKeys.key === 'sub1') {
+            this.props.renderUrl('/index/overView')
+        } else if (openKeys.key === 'sub2') {
+            this.props.renderUrl('/index/businessManagement')
+        }
     }
 }
 export default sider

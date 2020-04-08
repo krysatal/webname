@@ -6,6 +6,7 @@ import axios from 'axios'
 import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
 import indexPage from './components/index/indexPage'
 import overView from './components/components/overView/wzMap'
+import businessManagement from './components/components/businessManagement/list/businessList'
 class App extends Component{
     constructor(props) {
         super(props);
@@ -25,6 +26,7 @@ class App extends Component{
                     <Route path="/" exact component={Login} />
                     <Route path="/index" exact component={indexPage} />
                     <Route path="/index/overView" exact component={overView} />
+                    <Route path="/index/businessManagement" exact component={businessManagement} />
                 </Router>
             </div>
         );
