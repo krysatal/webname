@@ -1,0 +1,760 @@
+{
+  "330302": {
+    "area": "鹿城",
+    "productNumByYear": 25692743,
+    "productHigher": "2.9%",
+    "brand": {
+      "total": 225,
+      "newBra": 345,
+      "loseBra": 0,
+      "top": 2,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 200,
+      "newCom": 45,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 34,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 205,
+      "newCla": 567,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 32
+  },
+  "330303": {
+    "area": "龙湾",
+    "productNumByYear": 2569333743,
+    "productHigher": "3.0%",
+    "brand": {
+      "top": 65,
+      "total": 225,
+      "newBra": 76,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 200,
+      "newCom": 564,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 7,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 45,
+      "newCla": 343,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 12
+  },
+  "330304": {
+    "area": "瓯海",
+    "productNumByYear": 343422,
+    "productHigher": "2.8%",
+    "brand": {
+      "total": 455,
+      "newBra": 534,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 457,
+      "newCom": 234,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 234,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 6756,
+      "newCla": 768,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 56
+  },
+  "330305": {
+    "area": "洞头",
+    "productNumByYear": 32435445,
+    "productHigher": "23%",
+    "brand": {
+      "total": 190,
+      "top": 33,
+      "newBra": 898,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 200,
+      "newCom": 895,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 54,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 205,
+      "newCla": 34,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 23
+  },
+  "330324": {
+    "area": "永嘉",
+    "productNumByYear": 45646,
+    "productHigher": "45%",
+    "brand": {
+      "total": 105,
+      "top": 32,
+      "newBra": 234,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 200,
+      "newCom": 435,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 567,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 205,
+      "newCla": 543,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 67
+  },
+  "330326": {
+    "area": "平阳",
+    "productNumByYear": 6546456,
+    "productHigher": "90%",
+    "brand": {
+      "total": 180,
+      "top": 10,
+      "newBra": 24,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 200,
+      "newCom": 234,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 4324,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 205,
+      "newCla": 2342,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 87
+  },
+  "330327": {
+    "area": "苍南",
+    "productNumByYear": 456456456,
+    "productHigher": "23%",
+    "brand": {
+      "total": 630,
+      "top": 56,
+      "newBra": 35,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 200,
+      "newCom": 543,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 345,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 205,
+      "newCla": 534,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 563
+  },
+  "330328": {
+    "area": "文成",
+    "productNumByYear": 646356345,
+    "productHigher": "34%",
+    "brand": {
+      "total": 28,
+      "top": 76,
+      "newBra": 234,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 200,
+      "newCom": 424,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 34,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 205,
+      "newCla": 345,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 43
+  },
+  "330329": {
+    "area": "泰顺",
+    "productNumByYear": 5345345,
+    "productHigher": "56%",
+    "brand": {
+      "total": 268,
+      "top": 5,
+      "newBra": 657,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ],
+      "company": {
+        "total": 200,
+        "newCom": 843,
+        "loseCom": 0,
+        "detail": [
+          {
+            "companyName": "哇哈哈"
+          },
+          {
+            "companyName": "喵柯兰多"
+          }
+        ]
+      },
+      "product": {
+        "total": 205,
+        "newPro": 345,
+        "losePro": 0,
+        "detail": [
+          {
+            "productName": "哇哈哈"
+          },
+          {
+            "productName": "喵柯兰多"
+          }
+        ]
+      },
+      "class": {
+        "total": 205,
+        "newCla": 657,
+        "loseCla": 0,
+        "detail": [
+          {
+            "ClassName": "哇哈哈"
+          },
+          {
+            "ClassName": "喵柯兰多"
+          }
+        ]
+      }
+    },
+    "company": {
+      "total": 200,
+      "newCom": 78,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 980,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 205,
+      "newCla": 890,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 57
+  },
+  "330381": {
+    "area": "瑞安",
+    "productNumByYear": 535346456,
+    "productHigher": "34%",
+    "brand": {
+      "total": 335,
+      "top": 65,
+      "newBra": 76,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 200,
+      "newCom": 56,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 5634,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 205,
+      "newCla": 345,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 23
+  },
+  "330382": {
+    "area": "乐清",
+    "productNumByYear": 324535,
+    "productHigher": "34%",
+    "brand": {
+      "total": 196,
+      "top": 14,
+      "newBra": 456,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 200,
+      "newCom": 674,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 456,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 205,
+      "newCla": 35,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 56
+  },
+  "330383": {
+    "area": "龙港",
+    "productNumByYear": 456456456,
+    "productHigher": "23%",
+    "brand": {
+      "total": 630,
+      "top": 56,
+      "newBra": 35,
+      "loseBra": 0,
+      "detail": [
+        {
+          "brandName": "哇哈哈"
+        },
+        {
+          "brandName": "喵柯兰多"
+        }
+      ]
+    },
+    "company": {
+      "total": 200,
+      "newCom": 543,
+      "loseCom": 0,
+      "detail": [
+        {
+          "companyName": "哇哈哈"
+        },
+        {
+          "companyName": "喵柯兰多"
+        }
+      ]
+    },
+    "product": {
+      "total": 205,
+      "newPro": 345,
+      "losePro": 0,
+      "detail": [
+        {
+          "productName": "哇哈哈"
+        },
+        {
+          "productName": "喵柯兰多"
+        }
+      ]
+    },
+    "class": {
+      "total": 205,
+      "newCla": 534,
+      "loseCla": 0,
+      "detail": [
+        {
+          "ClassName": "哇哈哈"
+        },
+        {
+          "ClassName": "喵柯兰多"
+        }
+      ]
+    },
+    "positiveComments": 2666,
+    "negativePercent": 563
+  }
+}

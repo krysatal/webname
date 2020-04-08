@@ -1,0 +1,121 @@
+.footer-box {
+  width: 100%;
+  background: #515a6e;
+  height: 200px;
+  //line-height: 200px;
+  z-index: 9999999;
+  a {
+    color: #fff;
+    font-size: 14px;
+  }
+  p {
+    color: #fff;
+  }
+  .footer-main {
+    width: 90%;
+    margin: 0 auto;
+    height: 100%;
+    .ivu-row {
+      h4 {
+        margin-bottom: 8px;
+        font-size: 16px;
+        font-weight: 400;
+        .ivu-poptip {
+          position: absolute;
+          top: -20px;
+        }
+        i {
+          width: 20px;
+          height: 20px;
+          font-size: 20px;
+          color: #9ea7b4;
+          position: absolute;
+          top: 0px;
+          margin-right: 2px;
+          .ivu-icon {
+            display: inline-block;
+            font-family: Ionicons;
+            speak: none;
+            font-style: normal;
+            font-weight: 400;
+            font-variant: normal;
+            text-transform: none;
+            text-rendering: optimizeLegibility;
+            line-height: 1;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            vertical-align: -.125em;
+            text-align: center;
+          }
+        }
+      }
+    }
+    .ivu-icon-logo-footer {
+      background: url("../../assets/images/footer/logo.jpg") no-repeat 100%;
+    }
+    .ivu-icon-solution-footer {
+      background: url("../../assets/images/footer/solution.png") no-repeat 100%;
+    }
+    .ivu-icon-contact-footer {
+      background: url("../../assets/images/footer/contact.png") no-repeat 100%;
+    }
+    .ivu-icon-help-footer {
+      background: url("../../assets/images/footer/help.png") no-repeat 100%;
+    }
+    .ivu-icon-weChat-footer {
+      background: url("../../assets/images/footer/wechat.png") no-repeat 100%;
+    }
+    .ivu-icon-weiBo-footer {
+      background: url("../../assets/images/footer/weibo.png") no-repeat 100%;
+    }
+    .ivu-icon-phone-footer {
+      background: url("../../assets/images/footer/phone.png") no-repeat 100%;
+    }
+    .ivu-icon-email-footer {
+      background: url("../../assets/images/footer/email.png") no-repeat 100%;
+    }
+    .ivu-icon-ios-arrow {
+      height: 28px !important;
+      background: url("../../assets/images/footer/search.png") no-repeat 100%;
+    }
+    .ivu-input {
+      border-radius: 0px;
+      background: #515a6e;
+      border: 2px solid #fff;
+    }
+    .ivu-row li {
+      font-size: 12px;
+      color: #666;
+      margin-bottom: 5px;
+      padding-left: 8px;
+      i {
+        width: 20px;
+        height: 20px;
+        font-size: 20px;
+        color: #9ea7b4;
+        //position: absolute;
+        //top: 0px;
+        margin-right: 2px;
+        .ivu-icon {
+          display: inline-block;
+          font-family: Ionicons;
+          speak: none;
+          font-style: normal;
+          font-weight: 400;
+          font-variant: normal;
+          text-transform: none;
+          text-rendering: optimizeLegibility;
+          line-height: 1;
+          -webkit-font-smoothing: antialiased;
+          -moz-osx-font-smoothing: grayscale;
+          vertical-align: -.125em;
+          text-align: center;
+        }
+      }
+    }
+    ul {
+      list-style: none
+    }
+  }
+}
+

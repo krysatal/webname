@@ -1,0 +1,156 @@
+{
+  "id": "1738285",
+  "name": "wenzhou",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1444881",
+      "name": "map-marker-radius",
+      "font_class": "map-marker-radius",
+      "unicode": "e7e4",
+      "unicode_decimal": 59364
+    },
+    {
+      "icon_id": "3517186",
+      "name": "map_location",
+      "font_class": "dingweisuozaiweizhi",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "4898863",
+      "name": "map",
+      "font_class": "map",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "5379913",
+      "name": "map",
+      "font_class": "map1",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    },
+    {
+      "icon_id": "5513603",
+      "name": "map-pin",
+      "font_class": "map-pin",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "5767561",
+      "name": "map-06",
+      "font_class": "map-",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "9551131",
+      "name": "map",
+      "font_class": "map2",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "9801464",
+      "name": "ic_map_starting_normal",
+      "font_class": "ic_map_starting_normal",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9928866",
+      "name": "map",
+      "font_class": "map3",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "12310102",
+      "name": "map_pin_ellipse",
+      "font_class": "map_pin_ellipse",
+      "unicode": "e85d",
+      "unicode_decimal": 59485
+    },
+    {
+      "icon_id": "13214723",
+      "name": "map",
+      "font_class": "map4",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "13214725",
+      "name": "map",
+      "font_class": "map5",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "13369867",
+      "name": "ic_map",
+      "font_class": "ic_map",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "13388707",
+      "name": "ic_map",
+      "font_class": "ic_map1",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "13646222",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "13644873",
+      "name": "mian9",
+      "font_class": "mian",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13907937",
+      "name": "定位",
+      "font_class": "dingwei1",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "11372652",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e8ae",
+      "unicode_decimal": 59566
+    },
+    {
+      "icon_id": "13695123",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13763187",
+      "name": "查找位置",
+      "font_class": "chazhaoweizhi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "13763280",
+      "name": "当前位置",
+      "font_class": "dangqianweizhi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "userId": 89170,
+  "oldUserId": null,
+  "userName": "超级管理员",
+  "userAccount": "admin",
+  "tennatId": 128,
+  "tennatName": "测试大数据局",
+  "userPhone": "13708998112",
+  "userEmail": "dingsongsb111@163.com",
+  "loginIp": null,
+  "roles": [
+    {
+      "id": 17,
+      "index": 3,
+      "menuId": "operation",
+      "menuName": "运营审批",
+      "routerName": "operation-systemAsset-list",
+      "interfaceName": null,
+      "url": "/operation/systemAssetList",
+      "icon": null,
+      "type": "1",
+      "groupName": null,
+      "childBtn": null,
+      "children": [
+        {
+          "id": 250,
+          "index": 2,
+          "menuId": "operation_business_management",
+          "menuName": "企业管理",
+          "routerName": "operation_business_management_list",
+          "interfaceName": null,
+          "url": "/operation/businessManagement",
+          "icon": "CreditCardOutlined",
+          "type": null,
+          "groupName": null,
+          "children": null,
+          "childBtn": null
+        },
+        {
+          "id": 251,
+          "index": 3,
+          "menuId": "productManagement",
+          "menuName": "产品管理",
+          "routerName": "#",
+          "interfaceName": null,
+          "url": "#",
+          "icon": "MedicineBoxOutlined",
+          "type": null,
+          "groupName": null,
+          "children": [
+            {
+              "id": 252,
+              "index": 0,
+              "menuId": "operation_brand_management",
+              "menuName": "品牌管理",
+              "routerName": "operation_brand_management_list",
+              "interfaceName": null,
+              "url": "/operation/brandManagement",
+              "icon": null,
+              "type": null,
+              "groupName": null,
+              "children": null,
+              "childBtn": null
+            },
+            {
+              "id": 253,
+              "index": 1,
+              "menuId": "operation_cloud_code_management",
+              "menuName": "云码管理",
+              "routerName": "operation_cloud_code_management_list",
+              "interfaceName": null,
+              "url": "/operation/cloudCodeManagement",
+              "icon": null,
+              "type": null,
+              "groupName": null,
+              "children": null,
+              "childBtn": null
+            },
+            {
+              "id": 254,
+              "index": 2,
+              "menuId": "operation_merchandise_management",
+              "menuName": "产品管理",
+              "routerName": "operation_merchandise_management_list",
+              "interfaceName": null,
+              "url": "/operation/merchandiseManagement",
+              "icon": null,
+              "type": null,
+              "groupName": null,
+              "children": null,
+              "childBtn": null
+            }
+          ],
+          "childBtn": null
+        },
+        {
+          "id": 96,
+          "index": 8,
+          "menuId": "configManage",
+          "menuName": "配置管理",
+          "routerName": "#",
+          "interfaceName": null,
+          "url": "#",
+          "icon": "SettingOutlined",
+          "type": 1,
+          "groupName": null,
+          "children": null,
+          "childBtn": null
+        }
+      ]
+    }
+  ]
+}
