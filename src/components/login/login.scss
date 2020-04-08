@@ -1,0 +1,275 @@
+.login {
+  //background: url('./images/loginback.jpg') no-repeat;
+  //-moz-background-size: cover;
+  //-webkit-background-size: cover;
+  //background-size: cover;
+  //width: 100%;
+  //min-height: calc(100vh);
+  //padding-top: 20%;
+  //margin-left: 50%;
+}
+.login .ivu-poptip-arrow {
+  left: 75% !important;
+}
+.login .title {
+  width: 960px;
+  margin-left: -480px;
+  position: fixed;
+  top: 10%;
+  left: 50%;
+}
+
+.login .from-wrap, .from-wrap {
+  width: 400px;
+  margin-left: -200px;
+  position: fixed;
+  top: 20%;
+  left: 50%;
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 20px 30px 20px 0;
+}
+
+.login .bottom {
+  position: absolute;
+  width: 300px;
+  height: 50px;
+  bottom: 0;
+  left: 50%;
+  margin-left: -150px;
+  font-size: 14px;
+}
+
+.login h1 {
+  text-align: center;
+}
+
+.login h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.login p {
+  position: absolute;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  width: 100%;
+}
+
+.login FormItem {
+  margin-bottom: 15px;
+}
+
+.login .form-footer {
+  text-align: right;
+}
+
+.register {
+  color: #45b0f4;
+  cursor: pointer;
+  font-weight: 800;
+}
+
+.ivu-form-item-required .ivu-form-item-label:before {
+  display: none;
+}
+.file-down{
+  cursor: pointer;
+  float: right;
+  opacity: 0.8;
+  color: #808695;
+}
+.file-down::before {
+  //font-family: 'FontAwesome';
+  //content: "\f1c6";
+  //font-size: 16px;
+  //margin-right: 10px;
+}
+.carousel {
+  height: 380px;
+  //line-height: 380px;
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  background: url("./images/loginback.png") no-repeat;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  width: 100%;
+}
+.carousel-content {
+  position: relative;
+  display: inline-block;
+  padding: 0;
+  cursor: pointer;
+  width: 100%;
+  height: 100%;
+}
+.over-carousel-content {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.carousel-mask {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+  font-size: 16px;
+  color: #ffffff;
+  /* 垂直居中 */
+  //display: flex;
+  //justify-content: center;
+  ///* 弹性布局的左右居中对齐 */
+  //align-items: center;
+  ///*弹性布局的垂直居中对齐*/
+  //text-align: center;
+  /*文本居中*/
+  display: none;
+}
+.carousel-content:hover .carousel-mask {
+  display: flex;
+}
+.title {
+  color: #fff;
+  width: 100%;
+  font-size: 2em;
+  font-weight: bold;
+  height: 50px;
+  position: relative;
+  left: 20%;
+  top: 25%;
+}
+.tip {
+  position: relative;
+  color: #fff;
+  width: 100%;
+  height: 30px;
+  font-weight: 800;
+  font-size: 18px;
+  //position: fixed;
+  top: 30%;
+  left: 44%;
+}
+.apply {
+  position: relative;
+  top: 31%;
+  color: #fff;
+  width: 100%;
+  height: 30px;
+  left: 5%;
+  margin-top: 20px;
+}
+.apply-button {
+  width: 120px;
+  margin: 0 auto;
+  text-align: center;
+  color: #fff;
+  border-radius: 2px;
+  font-size: 16px;
+  font-weight: 600;
+  background: #52c41a;
+}
+.introduce {
+  height: 750px;
+  //line-height: 520px;
+}
+.bg {
+  text-align: center;
+  color: #fff;
+  font-size: 20px;
+  background: url("./images/login.png") no-repeat 100% 100%;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  //min-height: calc(100vh);
+}
+.introduce-title {
+  color: #225fab;
+  position: relative;
+  top: 80px;
+}
+.introduce-body {
+  position: relative;
+  top: 105px;
+  display: flex;
+  width: 50%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  z-index: 999;
+  font-size: 14px;
+  color: #949494;
+}
+.introduce-enter {
+  position: relative;
+  top: 190px;
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  z-index: 999;
+  font-size: 14px;
+  color: #949494;
+}
+.introduce-enter-pic {
+  height: 130px;
+  width: 100%;
+}
+.introduce-enter-pic-one {
+  background: url("./images/pic1.png");
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+}
+.introduce-enter-pic-two {
+  background: url("./images/pic2.png");
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+}
+.introduce-enter-pic-three {
+  background: url("./images/pic3.png");
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+}
+.introduce-enter-title {
+  color: #225fab;
+  margin-top: 30px;
+  text-align: left;
+}
+.introduce-enter-body {
+  margin-top: 25px;
+  font-size: 14px;
+  color: #949494;
+  text-align: left;
+}
+.introduce-enter-button {
+  //display: block;
+  margin-top: 30px;
+  text-align: left;
+  margin-bottom: 130px;
+}
+.particles-js-area {
+  height: inherit;
+}
+

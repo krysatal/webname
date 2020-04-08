@@ -1,11 +1,17 @@
 import React, {Component} from 'react';
-// import logo from './logo.svg';
-import {Button, DatePicker, version} from 'antd'
-import 'antd/dist/antd.css'
-import './App.css'
+import Login from './components/login/login'
+import 'antd/dist/antd.css';
+import './App.css';
 import axios from 'axios'
+import {BrowserRouter as Router, Route, Link} from 'react-router-dom'
+import indexPage from './components/index/indexPage'
+import overView from './components/components/overView/wzMap'
 class App extends Component{
+    constructor(props) {
+        super(props);
+    }
     componentDidMount() {
+        console.log(indexPage)
         axios.get('/api/mock/5e7c707aa123277163210e09/example/query').then((res) => {
             console.log(res)
         }).catch((res) => {
@@ -15,11 +21,11 @@ class App extends Component{
     render() {
         return (
             <div>
-                <h1>antd version: {version}</h1>
-                <DatePicker />
-                <Button type="primary" style={{ marginLeft: 8 }}>
-                    Primary Button
-                </Button>
+                <Router>
+                    <Route path="/" exact component={Login} />
+                    <Route path="/index" exact component={indexPage} />
+                    <Route path="/index/overView" exact component={overView} />
+                </Router>
             </div>
         );
     }
