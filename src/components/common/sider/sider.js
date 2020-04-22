@@ -2,9 +2,9 @@ import React, {Component} from 'react';
 import 'antd/dist/antd.css'
 import './sider.scss'
 import {Layout, Menu} from "antd";
-import { UserOutlined, LaptopOutlined, NotificationOutlined } from '@ant-design/icons';
+import { UserOutlined, LaptopOutlined } from '@ant-design/icons';
 const { SubMenu } = Menu;
-const { Sider, Content } = Layout;
+const { Sider } = Layout;
 
 class sider extends Component{
     constructor (props) {

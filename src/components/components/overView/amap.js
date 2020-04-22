@@ -228,7 +228,7 @@ class amap extends Component {
                 strokeColor: '#ccc',
                 fillColor: color
             })
-            let labelCenter = shape.getCenter()
+            // let labelCenter = shape.getCenter()
             // console.log(labelCenter)
             let position = map.pixelToLngLat(new window.AMap.Pixel(startX, startY))
             new SvgMarker(shape, {

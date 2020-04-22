@@ -5,12 +5,12 @@ import Sider from '../common/sider/sider'
 import {Layout} from "antd";
 import 'antd/dist/antd.css'
 import './indexPage.scss'
-const { Content } = Layout;
+// const { Content } = Layout;
 
 class indexPage extends Component {
-    constructor(props) {
-        super(props)
-    }
+    // constructor(props) {
+    //     super(props)
+    // }
     render() {
         return (
             <div>

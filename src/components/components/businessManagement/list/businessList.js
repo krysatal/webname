@@ -6,9 +6,9 @@ import {Layout} from "antd";
 const { Content } = Layout;
 
 class businessList extends Component{
-    constructor (props) {
-        super(props)
-    }
+    // constructor (props) {
+    //     super(props)
+    // }
     render() {
         return (
             <div>

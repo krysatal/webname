@@ -3,7 +3,7 @@ import 'antd/dist/antd.css'
 import {Layout, Menu, Modal, Row, Col, Form, Input, Button, Checkbox, Select} from "antd";
 import {BankOutlined, AuditOutlined} from '@ant-design/icons'
 import './header.scss'
-import loginJson from "../../login/login";
+// import loginJson from "../../login/login";
 const { Header } = Layout;
 const {Option} = Select
 const formItemLayout = {

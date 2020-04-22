@@ -1,16 +1,16 @@
 import React, {Component} from 'react';
 import Header from '../../common/header/header'
 import Sider from '../../common/sider/sider'
-import Footer from '../../common/footer/footer'
+// import Footer from '../../common/footer/footer'
 import MyMap from './amap'
 import {Layout} from "antd";
 import './wzMap.scss'
 const { Content } = Layout;
 
 class wzMap extends Component{
-    constructor (props) {
-        super(props)
-    }
+    // constructor (props) {
+    //     super(props)
+    // }
     render() {
         return (
             <div>
